@@ -97,7 +97,7 @@ Antiguamente, las empresas alojaban sus propios servidores físicamente (en casa
 
 ## 🔐 Modelo de responsabilidad compartida
 
-![Modelo de seguridad](./seguridad-aws.png)
+![Modelo de seguridad](./seguridad-compartida-aws.png)
 
 - **Cliente**: se encarga de la seguridad "en" la nube (datos, usuarios, firewalls…)
 - **AWS**: se encarga de la seguridad "de" la nube (infraestructura, hardware, software base…)
