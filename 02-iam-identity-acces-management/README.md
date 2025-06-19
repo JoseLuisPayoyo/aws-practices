@@ -68,7 +68,7 @@ Contienen:
       "Resource": "*"
     }
   ]
-}
+} ```
 ## 🛠️ Cómo se accede a AWS
 
 | Método    | Descripción                                           |
